@@ -32,18 +32,6 @@
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaiosdev&theme=github_dark" width="100%" alt="Kaio Sobral Moreira GitHub Profile Details"/>
 
-  <br><br>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kaiosdev&theme=github_dark" width="32%" alt="Repos per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kaiosdev&theme=github_dark" width="32%" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaiosdev&theme=github_dark" width="32%" alt="GitHub Stats"/>
-
-  <br><br>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kaiosdev&theme=github_dark&utcOffset=-4" width="32%" alt="Productive Time"/>
-  <img src="https://streak-stats.demolab.com?user=kaiosdev&theme=github-dark-blue&hide_border=true" width="32%" alt="GitHub Streak"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=kaiosdev&theme=darkhub&no-frame=true&margin-w=5&margin-h=5" width="32%" alt="GitHub Trophies"/>
-
 </div>
 
 <br>
@@ -111,13 +99,3 @@
 <p align="left">
   <a href="https://br.linkedin.com/in/kaio-sobral-0472a8261"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=c19eeb" alt="LinkedIn"></a>
 </p>
-
-<!-- Removida a animação da cobrinha (snake animation), pois ela exige configuração prévia no GitHub Actions do repositório -->
-
-<br>
-<br>
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=kaiosdev&label=Visualizações%20de%20Perfil&color=94e2d5&style=for-the-badge" alt="Profile views"/>
-</p>
-
-<div align="right">Criado por <a href="https://github.com/kaiosdev">kaiosdev</a>.</div>
